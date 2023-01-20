@@ -12,4 +12,4 @@
 | Laser Power      	| 2.08                	| 2                     	| 0.15                      	|
 
 
-F_c calculated using  = 4*((ETM.R*ITM.R)^0.5)/(1-(ETM.R*ITM.R)^0.5)^2
+F_c calculated using  = 4x((ETM.RxITM.R)^0.5)/(1-(ETM.RxITM.R)^0.5)^2
