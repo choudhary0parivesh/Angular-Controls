@@ -10,3 +10,6 @@
 | T(PRM)           	| 0.1                 	| 0.1                   	| 0.04950                   	|
 | Mass ITM,ETM,PRM 	| MOI(50.0×10-6kgm2)  	|                       	| 2.7, 0.1, 1.5 kg          	|
 | Laser Power      	| 2.08                	| 2                     	| 0.15                      	|
+
+
+F_c calculated using  = 4*((ETM.R*ITM.R)^0.5)/(1-(ETM.R*ITM.R)^0.5)^2
